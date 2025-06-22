@@ -45,18 +45,17 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 
 ## 🛠️ Herramientas utilizadas
 
-- **Tableau Public**
-- **Google Sheets / Excel** (preprocesamiento y limpieza de datos)
-- **Canva / Figma** (para recursos visuales)
+- **Tableau Public** (explotacion de datos y creacion de Dashboards)
+- **Phyton/Excel** (preprocesamiento y limpieza de datos)
 - **GitHub** (control de versiones y trabajo en equipo)
 
 ## 👩‍💻 Equipo de trabajo
 
-- **Ana Rodríguez**
+- **Silvia Farled**
 - **Laura Gómez**
-- **Marta Pérez**
-- **Sara Fernández**
-- **Carmen Martínez**
+- **Ines Martinez**
+- **Ines García**
+
 
 ## ▶️ Cómo visualizar el proyecto
 
@@ -69,6 +68,3 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 
 Este proyecto permite comprender el alcance y evolución de los ciberataques de forma intuitiva y visual, facilitando la identificación de áreas vulnerables y tendencias globales. El enfoque visual ayuda a comunicar los hallazgos tanto a perfiles técnicos como no técnicos.
 
-## 📮 Contacto
-
-Para más información o colaboración, puedes escribirnos a través del repositorio o vía LinkedIn.
