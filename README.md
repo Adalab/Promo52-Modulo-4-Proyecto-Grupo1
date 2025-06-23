@@ -45,7 +45,7 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 
 ## 🛠️ Herramientas utilizadas
 
-- **Tableau Public** (explotacion de datos y creacion de Dashboards)
+- **Tableau Public** (explotación de datos y creacion de Dashboards)
 - **Phyton/Excel** (preprocesamiento y limpieza de datos)
 - **GitHub** (control de versiones y trabajo en equipo)
 
@@ -54,7 +54,7 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 - **Silvia Farled**
 - **Laura Gómez**
 - **Ines Martinez**
-- **Ines García**
+- **Ines G. Oubiña**
 
 
 ## ▶️ Cómo visualizar el proyecto
