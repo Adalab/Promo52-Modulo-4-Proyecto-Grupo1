@@ -15,7 +15,7 @@ Visualizar los datos de incidentes de ciberseguridad a lo largo del tiempo para:
 
 ## 📁 Contenido del repositorio
 
-- `Proyecto4-TABLEAU-Excel.twbx`: Archivo de Tableau con el dashboard completo y visualizaciones interactivas.
+- `Proyecto4-TABLEAU-Ciberseguridad.twbx`: Archivo de Tableau con el dashboard completo y visualizaciones interactivas.
 - Archivos complementarios generados durante el desarrollo colaborativo del proyecto.
 - Este `README.md` con la documentación del proyecto.
 
@@ -61,7 +61,7 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 
 1. Descarga gratuitamente Tableau Public desde:  
    👉 https://public.tableau.com/app/discover  
-2. Abre el archivo `Proyecto4-TABLEAU-Excel.twbx` desde la app.
+2. Abre el archivo `Proyecto4-TABLEAU-Ciberseguridad.twbx` desde la app.
 3. Navega por los dashboards y explora los filtros y controles interactivos.
 
 ## ✅ Conclusiones
