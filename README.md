@@ -53,8 +53,8 @@ El proyecto incluye varias visualizaciones distribuidas en dashboards temáticos
 
 - **Silvia Farled**
 - **Laura Gómez**
-- **Ines Martinez**
-- **Ines G. Oubiña**
+- **Inés Martínez**
+- **Inés G. Oubiña**
 
 
 ## ▶️ Cómo visualizar el proyecto
